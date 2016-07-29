@@ -16,21 +16,22 @@ class Header extends Component {
         <div className='container-fluid'>
 
           <div className='navbar-header'>
-            <button type='button' className='navbar-toggle collapsed' data-toggle='collapse' data-target='#skybet-menu' aria-expanded='false'>
+            <button type='button' className='navbar-toggle collapsed' data-toggle='collapse' data-target='#coffeehouses-menu' aria-expanded='false'>
               <span className='sr-only'>Toggle navigation</span>
               <span className='icon-bar'></span>
               <span className='icon-bar'></span>
               <span className='icon-bar'></span>
             </button>
-            <Link className='navbar-brand' to='/'>CoffeeHouses</Link>
+            {/* <Link className='navbar-brand' to='/'>CoffeeHouses</Link> */}
           </div>
 
-          <div className='collapse navbar-collapse' id='skybet-menu'>
+          <div className='collapse navbar-collapse' id='coffeehouses-menu'>
             <ul className='nav navbar-nav'>
-              <li><Link to='/' data-toggle='collapse' data-target='.navbar-collapse.in'>Home</Link></li>
-              <li><Link to='about' data-toggle='collapse' data-target='.navbar-collapse.in'>About</Link></li>
+              
             </ul>
             <ul className='nav navbar-nav navbar-right'>
+              <li><Link to='/' data-toggle='collapse' data-target='.navbar-collapse.in'>Home</Link></li>
+              <li><Link to='about' data-toggle='collapse' data-target='.navbar-collapse.in'>About</Link></li>
             </ul>
           </div>
         </div>

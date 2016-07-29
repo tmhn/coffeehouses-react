@@ -1,0 +1,162 @@
+@font-face {
+  font-family: 'Sailec';
+  src: url('/public/assets/fonts/sailec/Sailec-Regular.eot');
+  src: url('/public/assets/fonts/sailec/Sailec-Regular.woff2') format('woff2'),
+       url('/public/assets/fonts/sailec/Sailec-Regular.woff') format('woff'),
+       url('/public/assets/fonts/sailec/Sailec-Regular.ttf') format('truetype'),
+       url('/public/assets/fonts/sailec/Sailec-Regular.svg#Sailec-Regular') format('svg'),
+       url('/public/assets/fonts/sailec/Sailec-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+@font-face {
+  font-family: 'Sailec-Medium';
+  src: url('/public/assets/fonts/sailec/Sailec-Medium.eot');
+  src: url('/public/assets/fonts/sailec/Sailec-Medium.woff2') format('woff2'),
+       url('/public/assets/fonts/sailec/Sailec-Medium.woff') format('woff'),
+       url('/public/assets/fonts/sailec/Sailec-Medium.ttf') format('truetype'),
+       url('/public/assets/fonts/sailec/Sailec-Medium.svg#Sailec-Medium') format('svg'),
+       url('/public/assets/fonts/sailec/Sailec-Medium.eot?#iefix') format('embedded-opentype');
+}
+
+#body {
+
+}
+
+#app {
+  font-family: Sailec-Regular;
+}
+
+p {
+  font-size: 16px;
+  color: #7B7B82;
+  font-weight: 400;
+  line-height: 27px;
+}
+
+h1 {
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.container {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+/* Base */
+
+.bold {
+  font-weight: 500;
+}
+
+/* Header */
+.navbar-default {
+  background-color: #fff;
+  border-color: #fff;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.navbar-brand {
+  padding-left: 0px;
+}
+
+.navbar-nav>li>a {
+  padding-right: 0px;
+}
+
+/* Pages */
+
+.location {
+  height: 380px;
+  width: 100%;
+  position: relative;
+  background-position: center center;
+  background-repeat: none;
+  display: inline-block;
+  vertical-align: top;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;  
+}
+
+/* -Home- */
+
+.banner {
+  padding-bottom: 100px;
+}
+
+.image_banner {
+  width: 100%;
+}
+
+.banner_intro {
+  text-align: center;
+}
+
+.intro_img {
+  max-height: inherit;
+  max-width: inherit;
+}
+
+/* Cities */
+
+.heading {
+  text-align: center;
+  color: #FFF;
+  padding-top: 160px;
+  font-family: Sailec-Medium;
+  font-size: 30px !important;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.Card {
+  border: none !important;
+}
+
+a.city {
+  color: #000;
+  text-decoration: none;
+}
+
+.city_heading {
+
+}
+
+/* Viewport */
+
+@media (min-width: 350px) { 
+  .container {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+
+@media (min-width: 767px) { 
+  .container {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .banner {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+
+@media (min-width: 1200px) {
+  /* .container {
+      width: 1470px;
+  }
+  */
+}
+
+
+
+
