@@ -5,8 +5,8 @@ import DocumentTitle from 'react-document-title'
 import { Link } from 'react-router'
 
 // Components
-import Banner from '../../pages/components/banner'
-import CoffeeCard from '../../pages/components/coffee_card'
+import Banner from '../../components/banner'
+import CoffeeCard from '../../components/coffee_card'
 
 class London extends Component {
   render () {

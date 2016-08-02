@@ -3,8 +3,8 @@
 import React, { Component } from 'react'
 import DocumentTitle from 'react-document-title'
 
-import Banner from '../components/banner'
-import City from '../components/city'
+import Banner from '../../components/banner'
+import City from '../../components/city'
 
 class Home extends Component {
   render () {

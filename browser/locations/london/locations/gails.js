@@ -2,14 +2,17 @@
 
 import React, { Component } from 'react'
 import DocumentTitle from 'react-document-title'
-import Profile from '../../../pages/components/profile'
+
+import Profile from '../../../components/profile'
 
 class Gails extends Component {
   render () {
     return (
-      <DocumentTitle title='Gails, London | CoffeeHouses'>
+      <DocumentTitle title="Gail's, London | CoffeeHouses">
         <Profile
-          name='Gails Coffee' />
+          name="Gail's Coffee"
+          city='London'
+          image='london/gails2.jpg' />
       </DocumentTitle>
     )
   }

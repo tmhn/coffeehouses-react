@@ -30,6 +30,10 @@
   font-family: Sailec-Regular;
 }
 
+a {
+  text-decoration: none;
+}
+
 p {
   font-size: 16px;
   color: #7B7B82;
@@ -85,6 +89,20 @@ h1 {
   background-size: cover;  
 }
 
+.profile_location {
+  height: 500px;
+  width: 100%;
+  position: relative;
+  background-position: center center;
+  background-repeat: none;
+  display: inline-block;
+  vertical-align: top;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;  
+}
+
 /* -Home- */
 
 .banner {
@@ -123,10 +141,6 @@ h1 {
 a.city {
   color: #000;
   text-decoration: none;
-}
-
-.city_heading {
-
 }
 
 /* Viewport */

@@ -7,8 +7,8 @@ import React, { Component } from 'react'
 import DocumentTitle from 'react-document-title'
 
 // Components
-import Banner from '../../pages/components/banner'
-import CoffeeCard from '../../pages/components/coffee_card'
+import Banner from '../../components/banner'
+import CoffeeCard from '../../components/coffee_card'
 
 class Edinburgh extends Component {
   render () {

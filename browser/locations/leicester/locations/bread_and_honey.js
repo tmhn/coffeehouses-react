@@ -2,7 +2,8 @@
 
 import React, { Component } from 'react'
 import DocumentTitle from 'react-document-title'
-import Profile from '../../../pages/components/profile'
+
+import Profile from '../../../components/profile'
 
 class BreadAndHoney extends Component {
   render () {

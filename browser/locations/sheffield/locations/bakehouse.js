@@ -2,14 +2,17 @@
 
 import React, { Component } from 'react'
 import DocumentTitle from 'react-document-title'
-import Profile from '../../../pages/components/profile'
+
+import Profile from '../../../components/profile'
 
 class Bakehouse extends Component {
   render () {
     return (
       <DocumentTitle title='Forge Bakehouse, Sheffield | CoffeeHouses'>
         <Profile
-          name='Forge Bakehouse' />
+          name='Forge Bakehouse'
+          city='Sheffield'
+          image='sheffield/bakehouse.jpg' />
       </DocumentTitle>
     )
   }
