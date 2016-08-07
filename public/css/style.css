@@ -1,33 +1,11 @@
-@font-face {
-  font-family: 'Sailec';
-  src: url('/public/assets/fonts/sailec/Sailec-Regular.eot');
-  src: url('/public/assets/fonts/sailec/Sailec-Regular.woff2') format('woff2'),
-       url('/public/assets/fonts/sailec/Sailec-Regular.woff') format('woff'),
-       url('/public/assets/fonts/sailec/Sailec-Regular.ttf') format('truetype'),
-       url('/public/assets/fonts/sailec/Sailec-Regular.svg#Sailec-Regular') format('svg'),
-       url('/public/assets/fonts/sailec/Sailec-Regular.eot?#iefix') format('embedded-opentype');
-  font-weight: normal;
-  font-style: normal;
-}
-
-
-
-@font-face {
-  font-family: 'Sailec-Medium';
-  src: url('/public/assets/fonts/sailec/Sailec-Medium.eot');
-  src: url('/public/assets/fonts/sailec/Sailec-Medium.woff2') format('woff2'),
-       url('/public/assets/fonts/sailec/Sailec-Medium.woff') format('woff'),
-       url('/public/assets/fonts/sailec/Sailec-Medium.ttf') format('truetype'),
-       url('/public/assets/fonts/sailec/Sailec-Medium.svg#Sailec-Medium') format('svg'),
-       url('/public/assets/fonts/sailec/Sailec-Medium.eot?#iefix') format('embedded-opentype');
-}
 
 #body {
 
 }
 
 #app {
-  font-family: Sailec-Regular;
+  font-family: Avenir Next, Avenir, Helvetica, Sans-serif;
+  font-weight: 400;
 }
 
 a {
@@ -71,6 +49,12 @@ h1 {
 
 .navbar-nav>li>a {
   padding-right: 0px;
+}
+
+/* Footer */
+
+.footer {
+
 }
 
 /* Pages */
@@ -128,7 +112,7 @@ h1 {
   text-align: center;
   color: #FFF;
   padding-top: 160px;
-  font-family: Sailec-Medium;
+  font-family: 'Reem Kufi';
   font-size: 30px !important;
   font-weight: 400;
   text-decoration: none;

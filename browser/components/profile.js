@@ -25,14 +25,14 @@ class Profile extends Component {
 }
 
 var profile_header = {
-  fontFamily: 'Sailec-Regular',
+  fontFamily: 'Reem Kufi',
   color: '#222222',
   fontSize: 50,
   marginBottom: 0
 }
 
 var profile_city = {
-  fontFamily: 'Sailec-Regular',
+  fontFamily: 'Reem Kufi',
   color: '#7B7B82',
   marginTop: 0
 }
