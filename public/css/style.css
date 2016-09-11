@@ -35,6 +35,10 @@ h1 {
   font-weight: 500;
 }
 
+.reemKufi {
+  font-family: 'Reem Kufi';
+}
+
 /* Header */
 .navbar-default {
   background-color: #fff;
@@ -73,20 +77,6 @@ h1 {
   background-size: cover;  
 }
 
-.profile_location {
-  height: 500px;
-  width: 100%;
-  position: relative;
-  background-position: center center;
-  background-repeat: none;
-  display: inline-block;
-  vertical-align: top;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;  
-}
-
 /* -Home- */
 
 .banner {
@@ -98,6 +88,9 @@ h1 {
 }
 
 .banner_intro {
+  color: #222;
+  font-family: 'Reem Kufi';
+  font-size: 50px;
   text-align: center;
 }
 
@@ -127,12 +120,56 @@ a.city {
   text-decoration: none;
 }
 
-/* Viewport */
+/* Profile */
+
+.profileCity {
+  font-family: 'Reem Kufi';
+  color: #7B7B82;
+  margin-bottom: 0px;
+}
+
+
+
+.profileLocation {
+  height: 500px;
+  width: 100%;
+  position: relative;
+  background-position: center center;
+  background-repeat: none;
+  display: inline-block;
+  vertical-align: top;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;  
+}
+
+.profileTray {
+  padding-bottom: 10px;
+}
+
+.socialLinks {
+  display: inline-block;
+}
+
+.socialLinkText {
+  padding-left: 20px;
+}
+
+.socialIcon {
+  height: 25px;
+  width: 25px;
+}
+
+
+/* 
+  Viewport 
+*/
 
 @media (min-width: 350px) { 
   .container {
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
   }
 }
 
