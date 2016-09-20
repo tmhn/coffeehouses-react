@@ -7,9 +7,6 @@ const compression = require('compression')
 const dotenv = require('dotenv')
 const helmet = require('helmet')
 
-dotenv.load()
-//const foursquare = require('node-foursquare-venues')(process.env.CLIENT_ID, process.env.CLIENT_SECRET)
-
 let app = express()
 var port = process.env.PORT || 8081
 
