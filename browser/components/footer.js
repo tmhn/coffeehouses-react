@@ -1,20 +1,38 @@
-'use strict'
+"use strict";
 
-import React, { Component } from 'react'
-import config from '../../config'
+import React from "react";
+import { css, StyleSheet } from "aphrodite";
 
-class Footer extends Component {
-  render () {
+const styles = StyleSheet.create({
+    footer: {
+        paddingTop: 60,
+        paddingBottom: 100,
+        fontFamily: "Reem Kufi"
+    },
+    hr: {
+        width: "100%"
+    },
+    header: {
+        color: "#7B7B82",
+        textAlign: "center"
+    },
+    link: {
+        color: "#24CC82"
+    }
+});
 
-    return (
-      <div className='footer container' style={{paddingTop: 60, paddingBottom: 100, fontFamily: 'Reem Kufi'}}>
-        <hr style={{width: '100%'}}/>
+const Footer = () =>
+    <div className={`container ${css(styles.footer)}`}>
+        <hr className={css(styles.hr)} />
         <div>
-          <h4 style={{color: '#7B7B82', textAlign: 'center'}}>Crafted by <a href='http://tmhn.io' style={{color: '#24CC82'}}>Tom</a> - 2016</h4>
+            <h4 className={css(styles.header)}>
+                Crafted by
+                {" "}
+                <a href="http://tmhn.io" className={css(styles.link)}>Tom</a>
+                {" "}
+                - 2017
+            </h4>
         </div>
-      </div>
-    )
-  }
-}
+    </div>;
 
-export default Footer
+export default Footer;

@@ -4,266 +4,296 @@
       "location": "london",
       "shops" : [
         {
-          "monmouth": {
             "name": "Monmouth",
+            "foursquare_id": "",
             "website": "https://monmouthcoffee.co.uk",
-            "instagram_tag": "",
-            "instagram": "https://www.instagram.com/p/BHrjQBDDgpf/?taken-by=dejanmarkovic90"
-          }
+            "instagram_location": "",
+            "external_image": "https://www.instagram.com/p/BHrjQBDDgpf/?taken-by=dejanmarkovic90",
+            "internal_image": "",
+            "link": ""
         },
         {
-          "workshop_coffee": {
             "name": "Workshop Coffee",
+            "foursquare_id": "",
             "website": "https://workshopcoffee.com/",
-            "instagram_tag": "https://www.instagram.com/explore/locations/12844769/",
-            "instagram": "https://www.instagram.com/p/BIFwB7_gHnv/?taken-at=12844769"
-          }
+            "instagram_location": "https://www.instagram.com/explore/locations/12844769/",
+            "external_image": "https://www.instagram.com/p/BIFwB7_gHnv/?taken-at=12844769",
+            "internal_image": "",
+            "link": ""
         },
         {
-          "kaffeine": {
             "name": "Kaffeine",
-            "website": "https://workshopcoffee.com/",
-            "instagram_tag": "https://www.instagram.com/explore/locations/4724/",
-            "instagram": "https://www.instagram.com/p/BGUhMD1L-ys/?taken-at=4724"
-          }
+            "foursquare_id": "",
+            "website": "http://kaffeine.co.uk/",
+            "instagram_location": "https://www.instagram.com/explore/locations/4724/",
+            "external_image": "https://www.instagram.com/p/BGUhMD1L-ys/?taken-at=4724",
+            "internal_image": "",
+            "link": ""
         },
         {
-          "rapha": {
-            "name": "Kaffeine",
-            "website": "https://workshopcoffee.com/",
-            "instagram_tag": "https://www.instagram.com/explore/locations/4724/",
-            "instagram": "https://www.instagram.com/p/BIZ4YgmBT3H/?taken-at=219142488"
-          }
+            "name": "Rapha",
+            "foursquare_id": "",
+            "website": "https://rapha.cc/",
+            "instagram_location": "https://www.instagram.com/explore/locations/291717718/rapha-london/",
+            "external_image": "https://www.instagram.com/p/ynHr4pOKHj/",
+            "internal_image": "",
+            "link": ""
         },
         {
-          "gails": {
             "name": "Gails",
+            "foursquare_id": "",
             "website": "http://gailsbread.co.uk/",
-            "instagram_tag": "https://www.instagram.com/explore/locations/253742248/",
-            "instagram": "https://www.instagram.com/p/BGCNonosAgG/?taken-at=253742248"
-          }
+            "instagram_location": "https://www.instagram.com/explore/locations/253742248/",
+            "external_image": "https://www.instagram.com/p/BGCNonosAgG/?taken-at=253742248",
+            "internal_image": "",
+            "link": ""
         },
         {
-          "tamp_coffee": {
             "name": "Tamp Coffee",
+            "foursquare_id": "",
             "website": "http://www.tampcoffee.co.uk/",
-            "instagram_tag": "https://www.instagram.com/tampcoffee/",
-            "instagram": "https://www.instagram.com/p/BB99SK5TR7a/?taken-by=tampcoffee"
-          }
+            "instagram_location": "https://www.instagram.com/tampcoffee/",
+            "external_image": "https://www.instagram.com/p/BB99SK5TR7a/?taken-by=tampcoffee",
+            "internal_image": "",
+            "link": ""
         },
         {
-          "department_of_coffee": {
             "name": "Department of Coffee",
+            "foursquare_id": "",
             "website": "http://departmentofcoffee.com/",
-            "instagram_tag": "https://www.instagram.com/explore/locations/562624/",
-            "instagram": "https://www.instagram.com/p/-mqFqlD0BP/?taken-at=562624"
-          }
+            "instagram_location": "https://www.instagram.com/explore/locations/562624/",
+            "external_image": "https://www.instagram.com/p/-mqFqlD0BP/?taken-at=562624",
+            "internal_image": "",
+            "link": ""
         },
         {
-          "ozone_coffee_roasters": {
             "name": "Ozone Coffee Roasters",
+            "foursquare_id": "",
             "website": "https://www.ozonecoffee.co.uk/",
-            "instagram_tag": "https://www.instagram.com/explore/locations/9952604//",
-            "instagram": "https://www.instagram.com/p/BIS8N-7BhUl/?taken-at=9952604"
-          }
-        }                                                
+            "instagram_location": "https://www.instagram.com/explore/locations/9952604//",
+            "external_image": "https://www.instagram.com/p/BIS8N-7BhUl/?taken-at=9952604",
+            "internal_image": "",
+            "link": ""
+        }
       ]
     },
     {
       "location": "edinburgh",
       "shops" : [
         {
-          "the_milkman": {
             "name": "The Milkman",
+            "foursquare_id": "",
             "website": "https://www.instagram.com/themilkmancoffee/",
-            "instagram_tag": "https://www.instagram.com/explore/locations/1019549560/",
-            "instagram": "https://www.instagram.com/p/BHzasfyB64-/?taken-at=1019549560"
-          }
+            "instagram_location": "https://www.instagram.com/explore/locations/1019549560/",
+            "external_image": "https://www.instagram.com/p/BHzasfyB64-/?taken-at=1019549560",
+            "internal_image": "",
+            "link": ""
         },
         {
-          "wellington_coffee": {
             "name": "Wellington Coffee",
+            "foursquare_id": "",
             "website": "https://www.instagram.com/explore/locations/137801/",
-            "instagram_tag": "https://www.instagram.com/explore/locations/137801/",
-            "instagram": "https://www.instagram.com/p/BFJaukyxxc5/?taken-at=137801"
-          }
+            "instagram_location": "https://www.instagram.com/explore/locations/137801/",
+            "external_image": "https://www.instagram.com/p/BFJaukyxxc5/?taken-at=137801",
+            "internal_image": "",
+            "link": ""
         },
         {
-          "machina_espresso": {
             "name": "Machina Espresso",
+            "foursquare_id": "",
             "website": "http://www.machina-espresso.co.uk/",
-            "instagram_tag": "https://www.instagram.com/explore/locations/177467280/",
-            "instagram": "https://www.instagram.com/p/BFoJ7z5l0Aj/?taken-at=177467280"
-          }
+            "instagram_location": "https://www.instagram.com/explore/locations/177467280/",
+            "external_image": "https://www.instagram.com/p/BFoJ7z5l0Aj/?taken-at=177467280",
+            "internal_image": "",
+            "link": ""
         },
         {
-          "fortitude_coffee": {
             "name": "Fortitude Coffee",
+            "foursquare_id": "",
             "website": "http://www.fortitudecoffee.com/",
-            "instagram_tag": "https://www.instagram.com/explore/locations/250110134/",
-            "instagram": "https://www.instagram.com/p/BHzafK_gRoM/?taken-at=250110134"
-          }
+            "instagram_location": "https://www.instagram.com/explore/locations/250110134/",
+            "external_image": "https://www.instagram.com/p/BHzafK_gRoM/?taken-at=250110134",
+            "internal_image": "",
+            "link": ""
         },
         {
-          "cairngorm_coffee": {
             "name": "Cairngorm Coffee Co",
+            "foursquare_id": "",
             "website": "http://www.cairngormcoffee.com/",
-            "instagram_tag": "https://www.instagram.com/explore/locations/265937801/",
-            "instagram": "https://www.instagram.com/p/BG38cDZQuzx/?taken-at=265937801"
-          }
+            "instagram_location": "https://www.instagram.com/explore/locations/265937801/",
+            "external_image": "https://www.instagram.com/p/BG38cDZQuzx/?taken-at=265937801",
+            "internal_image": "",
+            "link": ""
         },
         {
-          "brewlab_coffee": {
             "name": "Brew Lab Coffee",
+            "foursquare_id": "",
             "website": "http://www.cairngormcoffee.com/",
-            "instagram_tag": "https://www.instagram.com/explore/locations/216924595/",
-            "instagram": "https://www.instagram.com/p/BHSM-nYj7wW/?taken-at=216924595"
-          }
+            "instagram_location": "https://www.instagram.com/explore/locations/216924595/",
+            "external_image": "https://www.instagram.com/p/BHSM-nYj7wW/?taken-at=216924595",
+            "internal_image": "",
+            "link": ""
         },
         {
-          "artisan_roast": {
             "name": "Artisan Roast",
+            "foursquare_id": "",
             "website": "http://http://www.artisanroast.co.uk/",
-            "instagram_tag": "https://www.instagram.com/explore/locations/38189/",
-            "instagram": "https://www.instagram.com/p/BHSW-J4AO6w/?taken-at=38189"
-          }
-        }                                              
+            "instagram_location": "https://www.instagram.com/explore/locations/38189/",
+            "external_image": "https://www.instagram.com/p/BHSW-J4AO6w/?taken-at=38189",
+            "internal_image": "",
+            "link": ""
+        }
       ]
     },
     {
       "location": "leeds",
       "shops" : [
         {
-          "sociable_folk": {
             "name": "Sociable Folk",
+            "foursquare_id": "",
             "website": "https://http://sociablefolk.co.uk/",
-            "instagram_tag": "https://www.instagram.com/explore/locations/337204975/",
-            "instagram": ""
-          }
+            "instagram_location": "https://www.instagram.com/explore/locations/337204975/",
+            "external_image": "",
+            "internal_image": "",
+            "link": ""
         },
         {
-          "laynes_espresso": {
             "name": "Laynes Espresso",
+            "foursquare_id": "",
             "website": "http://www.laynesespresso.co.uk/#laynesespresso",
-            "instagram_tag": "https://www.instagram.com/explore/locations/3905512/",
-            "instagram": "https://www.instagram.com/p/BGrYGA-s3AO/?taken-at=3905512"
-          }
+            "instagram_location": "https://www.instagram.com/explore/locations/3905512/",
+            "external_image": "https://www.instagram.com/p/BGrYGA-s3AO/?taken-at=3905512",
+            "internal_image": "",
+            "link": ""
         },
         {
-          "cafe_164": {
             "name": "Cafe 164",
+            "foursquare_id": "",
             "website": "https://cafe164.com/",
-            "instagram_tag": "https://www.instagram.com/explore/locations/4763034/",
-            "instagram": "https://www.instagram.com/p/-RNs8JorkC/?taken-at=4763034"
-          }
+            "instagram_location": "https://www.instagram.com/explore/locations/4763034/",
+            "external_image": "https://www.instagram.com/p/-RNs8JorkC/?taken-at=4763034",
+            "internal_image": "",
+            "link": ""
         },
         {
-          "bottega_milanese": {
             "name": "La Bottega Milanese",
+            "foursquare_id": "",
             "website": "https://http://labottegamilanese.co.uk/",
-            "instagram_tag": "https://www.instagram.com/explore/locations/835822966/",
-            "instagram": "https://www.instagram.com/p/BFwU1ZhniUL/?taken-at=835822966"
-          }
+            "instagram_location": "https://www.instagram.com/explore/locations/835822966/",
+            "external_image": "https://www.instagram.com/p/BFwU1ZhniUL/?taken-at=835822966",
+            "internal_image": "",
+            "link": ""
         },
         {
-          "house_of_koko": {
             "name": "House of Koko",
+            "foursquare_id": "",
             "website": "http://www.houseofkoko.com/",
-            "instagram_tag": "https://www.instagram.com/explore/locations/1012030804/",
-            "instagram": "https://www.instagram.com/p/BGj673uFAF4/?taken-at=1012030804"
-          }
+            "instagram_location": "https://www.instagram.com/explore/locations/1012030804/",
+            "external_image": "https://www.instagram.com/p/BGj673uFAF4/?taken-at=1012030804",
+            "internal_image": "",
+            "link": ""
         },
         {
-          "mrs_athas": {
             "name": "Mrs Athas",
+            "foursquare_id": "",
             "website": "http://www.mrsathasleeds.com/",
-            "instagram_tag": "https://www.instagram.com/explore/locations/38957084/",
-            "instagram": "https://www.instagram.com/p/BIZ3Adngqs_/?taken-at=38957084"
-          }
+            "instagram_location": "https://www.instagram.com/explore/locations/38957084/",
+            "external_image": "https://www.instagram.com/p/BIZ3Adngqs_/?taken-at=38957084",
+            "internal_image": "",
+            "link": ""
         },
         {
-          "opposite_cafe": {
             "name": "Opposite Cafe",
+            "foursquare_id": "",
             "website": "https://www.instagram.com/explore/locations/1281324/",
-            "instagram_tag": "https://www.instagram.com/explore/locations/1281324/",
-            "instagram": "https://www.instagram.com/p/9dSXz-uW80/?taken-at=1281324"
-          }
-        }                                
+            "instagram_location": "https://www.instagram.com/explore/locations/1281324/",
+            "external_image": "https://www.instagram.com/p/9dSXz-uW80/?taken-at=1281324",
+            "internal_image": "",
+            "link": ""
+        }
       ]
     },
     {
       "location": "sheffield",
       "shops" : [
         {
-          "tamper": {
             "name": "Tamper Coffee",
+            "foursquare_id": "",
             "website": "https://tampercoffee.co.uk/",
-            "instagram_tag": "https://www.instagram.com/explore/locations/227729633/",
-            "instagram": "https://www.instagram.com/p/BGZFwd0rwgo/?taken-by=tampercoffeesw"
-          }
+            "instagram_location": "https://www.instagram.com/explore/locations/227729633/",
+            "external_image": "https://www.instagram.com/p/BGZFwd0rwgo/?taken-by=tampercoffeesw",
+            "internal_image": "",
+            "link": ""
         },
         {
-          "ink_and_water": {
             "name": "Ink and Water",
+            "foursquare_id": "",
             "website": "http://inkandwater.coffee/",
-            "instagram_tag": "https://www.instagram.com/explore/locations/257278406/",
-            "instagram": "https://www.instagram.com/p/n48JmmlqBc/?taken-at=257278406"
-          }
+            "instagram_location": "https://www.instagram.com/explore/locations/257278406/",
+            "external_image": "https://www.instagram.com/p/n48JmmlqBc/?taken-at=257278406",
+            "internal_image": "",
+            "link": ""
         },
         {
-          "steamyard": {
             "name": "Steam Yard",
+            "foursquare_id": "",
             "website": "https://www.instagram.com/steamyard/",
-            "instagram_tag": "https://www.instagram.com/explore/locations/232326023/",
-            "instagram": ""
-          }
+            "instagram_location": "https://www.instagram.com/explore/locations/232326023/",
+            "external_image": "",
+            "internal_image": "",
+            "link": ""
         },
         {
-          "marmadukes": {
             "name": "Marmadukes",
+            "foursquare_id": "",
             "website": "",
-            "instagram_tag": "https://www.instagram.com/explore/locations/31617087/",
-            "instagram": "https://www.instagram.com/p/BHSUdLHj16z/?taken-at=31617087"
-          }
+            "instagram_location": "https://www.instagram.com/explore/locations/31617087/",
+            "external_image": "https://www.instagram.com/p/BHSUdLHj16z/?taken-at=31617087",
+            "internal_image": "",
+            "link": ""
         },
         {
-          "upshot_espresso": {
             "name": "Upshot Espresso",
+            "foursquare_id": "",
             "website": "http://www.upshotespresso.co.uk/",
-            "instagram_tag": "https://www.instagram.com/explore/locations/122030031/",
-            "instagram": "https://www.instagram.com/p/BB1wvk-FC-b/?taken-at=122030031"
-          }
+            "instagram_location": "https://www.instagram.com/explore/locations/122030031/",
+            "external_image": "https://www.instagram.com/p/BB1wvk-FC-b/?taken-at=122030031",
+            "internal_image": "",
+            "link": ""
         },
         {
-          "forge_bakehouse": {
             "name": "Forge Bakehouse",
+            "foursquare_id": "",
             "website": "http://www.forgebakehouse.co.uk/",
-            "instagram_tag": "https://www.instagram.com/explore/locations/37710823/",
-            "instagram": "https://www.instagram.com/p/5MNxpPJLmM/?taken-at=37710823"
-          }
+            "instagram_location": "https://www.instagram.com/explore/locations/37710823/",
+            "external_image": "https://www.instagram.com/p/5MNxpPJLmM/?taken-at=37710823",
+            "internal_image": "",
+            "link": ""
         },
         {
-          "howst": {
             "name": "HowSt",
+            "foursquare_id": "",
             "website": "https://www.instagram.com/explore/locations/266737772/",
-            "instagram_tag": "https://www.instagram.com/explore/locations/266737772/",
-            "instagram": "https://www.instagram.com/p/BIYKKHdh1YL/?taken-at=266737772"
-          }
-        },                                 
+            "instagram_location": "https://www.instagram.com/explore/locations/266737772/",
+            "external_image": "https://www.instagram.com/p/BIYKKHdh1YL/?taken-at=266737772",
+            "internal_image": "",
+            "link": ""
+        }
       ]
     },
     {
       "location": "leicester",
       "shops" : [
         {
-          "st_martins_coffee_shop": {
             "name": "St Martin's Coffee Shop",
+            "foursquare_id": "",
             "website": "http://stmartinscoffee.co.uk/",
-            "instagram_tag": "https://www.instagram.com/explore/locations/953301811/",
-            "instagram": "https://www.instagram.com/p/BIZ4dFqAK8F/?taken-at=953301811"
-          }
+            "instagram_location": "https://www.instagram.com/explore/locations/953301811/",
+            "external_image": "https://www.instagram.com/p/BIZ4dFqAK8F/?taken-at=953301811",
+            "internal_image": "",
+            "link": ""
         }
       ]
-    }        
+    }
   ]
 }

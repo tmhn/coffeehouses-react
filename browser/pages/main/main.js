@@ -1,25 +1,20 @@
-'use strict'
+"use strict";
 
-import React, { Component } from 'react'
-import Header from '../../components/header'
-import Footer from '../../components/footer'
+import React from "react";
+import Header from "../../components/header";
+import Footer from "../../components/footer";
 
-class Main extends Component {
-  render () {
-    return (
-      <div>
-        <div className='container'>
-          <Header />
+const Main = props =>
+    <div>
+        <div className="container">
+            <Header />
         </div>
-        <div className='container'>
-          {this.props.children}
+        <div className="container">
+            {props.children}
         </div>
-        <div>
-          <Footer />
+        <div className="container">
+            <Footer />
         </div>
-      </div>
-    )
-  }
-}
+    </div>;
 
-export default Main
+export default Main;

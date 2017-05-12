@@ -1,18 +1,30 @@
-'use strict'
+"use strict";
 
-import React, { Component } from 'react'
+import React from "react";
+import { css, StyleSheet } from "aphrodite";
+import { REEM_KUFI } from "../helpers/fonts";
+import { SLATE } from "../helpers/colors";
 
-class Banner extends Component {
-  render () {
-    return (
-      <div className='row banner'>
-        <h1 style={{fontFamily: 'Reem Kufi', color: '#222222', fontSize: 50}} className='banner_intro'>{this.props.heading}</h1>
-        <div className='banner_intro'>
-          <p>{this.props.text}</p>
+const styles = StyleSheet.create({
+    banner: {
+        paddingBottom: "100px"
+    },
+    header: {
+        fontFamily: REEM_KUFI,
+        color: SLATE,
+        fontSize: 50,
+        textAlign: "center"
+    }
+});
+
+const Banner = props =>
+    <div className={`row ${css(styles.banner)}`}>
+        <h1 className={css(styles.header)}>
+            {props.heading}
+        </h1>
+        <div className={css(styles.header)}>
+            <p>{props.text}</p>
         </div>
-      </div>
-    )
-  }
-}
+    </div>;
 
-export default Banner
+export default Banner;

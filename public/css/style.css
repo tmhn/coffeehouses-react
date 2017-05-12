@@ -55,12 +55,6 @@ h1 {
   padding-right: 0px;
 }
 
-/* Footer */
-
-.footer {
-
-}
-
 /* Pages */
 
 .location {
@@ -74,7 +68,7 @@ h1 {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;  
+  background-size: cover;
 }
 
 /* -Home- */
@@ -129,51 +123,18 @@ a.city {
 }
 
 
-
-.profileLocation {
-  height: 500px;
-  width: 100%;
-  position: relative;
-  background-position: center center;
-  background-repeat: none;
-  display: inline-block;
-  vertical-align: top;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;  
-}
-
-.profileTray {
-  padding-bottom: 10px;
-}
-
-.socialLinks {
-  display: inline-block;
-}
-
-.socialLinkText {
-  padding-left: 20px;
-}
-
-.socialIcon {
-  height: 25px;
-  width: 25px;
-}
-
-
-/* 
-  Viewport 
+/*
+  Viewport
 */
 
-@media (min-width: 350px) { 
+@media (min-width: 350px) {
   .container {
     padding-left: 20px;
     padding-right: 20px;
   }
 }
 
-@media (min-width: 767px) { 
+@media (min-width: 767px) {
   .container {
     padding-left: 15px;
     padding-right: 15px;

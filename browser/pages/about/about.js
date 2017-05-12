@@ -1,18 +1,13 @@
-'use strict'
+"use strict";
 
-import React, { Component } from 'react'
-import DocumentTitle from 'react-document-title'
+import React from "react";
+import DocumentTitle from "react-document-title";
 
-class About extends Component {
-  render () {
-    return (
-      <DocumentTitle title='About | CoffeeHouses'>
+const About = () =>
+    <DocumentTitle title="About | CoffeeHouses">
         <div>
-          About
+            About
         </div>
-      </DocumentTitle>
-    )
-  }
-}
+    </DocumentTitle>;
 
-export default About
+export default About;
