@@ -5,16 +5,13 @@ import DocumentTitle from "react-document-title";
 
 import Banner from "../../components/banner";
 import City from "../../components/city";
-
+import { SITE_TITLE } from "../../helpers/global";
 import data from "../content/data.json";
 
 class Home extends Component {
     render() {
-
-        console.log(data.coffeehouses);
-
         return (
-            <DocumentTitle title="Home | CoffeeHouses">
+            <DocumentTitle title={`Home | ${SITE_TITLE}`}>
                 <div className="container">
                     <Banner
                         heading="CoffeeHouses"

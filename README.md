@@ -17,5 +17,7 @@ Consider starting commit messages with these emoji if they apply.
 - :bug: `:bug:` when fixing a bug.
 - :fire: `:fire:` when removing code or files.
 - :necktie: `:necktie:` when fixing linting errors.
+- :muscle: `:muscle:` when being a boss.
+- :lipstick: `:lipstick:` when fixing styling errors.
 - :white_check_mark: `:white_check_mark:` when adding tests.
 - :green_heart: `:green_heart:` when fixing tests.
