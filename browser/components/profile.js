@@ -16,7 +16,7 @@ const styles = StyleSheet.create({
         color: "#7B7B82",
         marginBottom: "0px"
     },
-    profileLocation: {
+    location: {
         height: "500px",
         width: "100%",
         position: "relative",
@@ -108,7 +108,7 @@ const Profile = props =>
         <div className="col-md-6">
             <Card rounded width={"100%"}>
                 <div
-                    className={css(styles.profileLocation)}
+                    className={css(styles.location)}
                     style={{ backgroundImage: `url(/images/${props.image})` }}
                 />
             </Card>
